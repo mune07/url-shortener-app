@@ -2,6 +2,7 @@ D:\Angular_Resume_Projects\URLShortener\backend\src\main\java\com\example\urlsho
 D:\Angular_Resume_Projects\URLShortener\backend\src\main\java\com\example\urlshortener\config\OpenApiConfig.java
 D:\Angular_Resume_Projects\URLShortener\backend\src\main\java\com\example\urlshortener\controller\RedirectController.java
 D:\Angular_Resume_Projects\URLShortener\backend\src\main\java\com\example\urlshortener\controller\UrlShortenerController.java
+D:\Angular_Resume_Projects\URLShortener\backend\src\main\java\com\example\urlshortener\dto\PagedUrlResponse.java
 D:\Angular_Resume_Projects\URLShortener\backend\src\main\java\com\example\urlshortener\dto\UrlShortenRequest.java
 D:\Angular_Resume_Projects\URLShortener\backend\src\main\java\com\example\urlshortener\dto\UrlShortenResponse.java
 D:\Angular_Resume_Projects\URLShortener\backend\src\main\java\com\example\urlshortener\dto\UrlStatsResponse.java
